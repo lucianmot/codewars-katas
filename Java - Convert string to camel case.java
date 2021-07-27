@@ -16,9 +16,3 @@ class Solution{
     return s;
   }
 }
-
-// with regex replace - with _
-// split string into array of string with _ as divider
-// 1st word move to results
-// loop for uppercase for remaining of words
-// join string working array to results
