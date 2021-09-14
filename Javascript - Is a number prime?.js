@@ -13,3 +13,5 @@ function isPrime(num) {
     if (num % i === 0) return false;
   return num > 1;
 }
+
+// THIS SOLUTION IS NOT YET COMPLETE AS IT TIMES OUT CONSUMING ALL RUNTIME AND RETURNING RUN TIME ERROR
