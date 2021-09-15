@@ -2,7 +2,6 @@
 // https://www.codewars.com/kata/5262119038c0985a5b00029f/train/javascript
 
 function isPrime(num) {
-  
   console.log('\n-----------------\n');
   console.log('num: ', num);
   
@@ -23,7 +22,6 @@ function isPrime(num) {
       return false;
       }
     }
-  
   return num > 1;
 }
 
