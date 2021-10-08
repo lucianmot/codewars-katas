@@ -1,4 +1,4 @@
-/* Java - Duplicate Encoder
+/* Java - Duplicate Encoder 
 https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java */
 
 public class DuplicateEncoder {
