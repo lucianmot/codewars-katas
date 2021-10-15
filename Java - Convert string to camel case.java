@@ -1,4 +1,4 @@
-/* Java - Convert string to camel case.java 
+/* Java - Convert string to camel case.java
 https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java */
 
 import java.lang.StringBuilder;
