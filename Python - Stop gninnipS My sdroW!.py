@@ -1,4 +1,4 @@
-# Python - Stop gninnipS My sdroW!
+# Python - Stop gninnipS My sdroW! 
 # https://www.codewars.com/kata/5264d2b162488dc400000001/train/python
 # This is a speed run we are trying to do multiples, so less refactoring
 
