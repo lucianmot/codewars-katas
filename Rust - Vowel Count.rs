@@ -6,9 +6,12 @@
 fn get_count(string: &str) -> usize {
     let mut vowels_count: usize = 0;
     
-        println!(string);
+    let mut vowels_list = vec!["a", "e", "i", "o", "u"];
     
-    for i in 0..10 {
+    for i in string.split(""){
+        if vowels_list.contains(&i) {
+            vowels_count += 1;
+        }
     }
     
     vowels_count
