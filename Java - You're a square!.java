@@ -1,4 +1,4 @@
-/* Java - You're a square!.java
+/* Java - You're a square!.java 
 https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java */
 
 
