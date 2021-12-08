@@ -1,4 +1,4 @@
-# Python - The position of a digital string in a infinite digital string
+# Python - The position of a digital string in a infinite digital string 
 # https://www.codewars.com/kata/582c1092306063791c000c00/train/python
 
 # attempt 1
