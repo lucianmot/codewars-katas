@@ -8,4 +8,3 @@ def make_readable(seconds):
     seconds %= 60;
     seconds = str(int(seconds)).zfill(2);   
     return str(hours) + ':' + str(minutes) + ':' + str(seconds);
-    
