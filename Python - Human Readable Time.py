@@ -1,5 +1,5 @@
 # kata title: Python - Human Readable Time
-# kata link: https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python
+# kata link: https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python    
 
 def make_readable(seconds):    
     hours = str(int(seconds / 3600)).zfill(2);    
